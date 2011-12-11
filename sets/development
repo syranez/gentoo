@@ -1,0 +1,9 @@
+dev-java/rhino
+dev-lang/php
+dev-lang/ruby
+dev-lang/spidermonkey
+dev-lang/v8
+dev-php/PEAR-PHP_CodeSniffer
+dev-php/PEAR-XML_Beautifier
+dev-util/netbeans
+dev-util/strace
