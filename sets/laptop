@@ -1,0 +1,10 @@
+app-laptop/laptop-mode-tools
+app-laptop/pbbuttonsd
+net-dialup/wvdial
+net-wireless/broadcom-sta
+net-wireless/wireless-tools
+net-wireless/wpa_supplicant
+sys-apps/ifplugd
+sys-power/acpitool
+sys-power/cpufreqd
+sys-power/powertop
