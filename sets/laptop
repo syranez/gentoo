@@ -8,3 +8,4 @@ sys-apps/ifplugd
 sys-power/acpitool
 sys-power/cpufreqd
 sys-power/powertop
+sys-power/powernowd
