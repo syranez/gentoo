@@ -1,0 +1,11 @@
+sys-boot/grub
+sys-process/vixie-cron
+sys-kernel/gentoo-sources
+sys-kernel/module-rebuild
+app-admin/logrotate
+app-admin/sudo
+app-admin/syslog-ng
+net-misc/dhcpcd
+net-misc/ntp
+sys-apps/mlocate
+sys-apps/smartmontools
