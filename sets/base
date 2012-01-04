@@ -23,3 +23,4 @@ sys-fs/dosfstools
 sys-process/atop
 sys-process/htop
 sys-process/lsof
+sys-kernel/linux-firmware
