@@ -25,3 +25,4 @@ sys-process/htop
 sys-process/lsof
 sys-kernel/linux-firmware
 sys-apps/pciutils
+net-misc/keychain
